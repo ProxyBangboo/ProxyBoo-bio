@@ -31,7 +31,7 @@ Saya seorang Software Engineer dengan minat dalam pengembangan web dan kecerdasa
 ## Hubungi Saya
 
 - [LinkedIn](https://www.linkedin.com/)
-- [Twitter](https://twitter.com/ahmad_dev)
-- [Email](mailto:ahmad@example.com)
+- [Twitter](https://twitter.com/)
+- [Email](mailto:proxybangboo@example.com)
 
 Terima kasih sudah berkunjung ke profil saya! 😊
