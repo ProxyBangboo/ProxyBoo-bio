@@ -1,0 +1,11 @@
+POST /idp/v1/otp/send
+
+{
+    "auth_type": "sms",
+    "client_id": "c8462jyq9dnupu2q4j7sfjzvn6c87j92",
+    "redirect_uri": "https://localhost.com",
+    "user_id": "{+62}",
+    "locale": "id-ID",
+    "message": "This is your code: %code%",
+    "method": "voice_with_otp"
+}
